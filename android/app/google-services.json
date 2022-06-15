@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "786853013121",
+    "project_id": "petgallery0-ffb15",
+    "storage_bucket": "petgallery0-ffb15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786853013121:android:2183b4a0bc41fb25a98f80",
+        "android_client_info": {
+          "package_name": "com.example.petgallerry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786853013121-in7e0fr9k9i4oua90s77jd6mvrr61ge2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX6K8yzj0hF-kRP5MRUL6KqcTw3uKvFWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "786853013121-in7e0fr9k9i4oua90s77jd6mvrr61ge2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
